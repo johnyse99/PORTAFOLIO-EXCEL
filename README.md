@@ -11,11 +11,7 @@ Este proyecto muestra cómo crear gráficos personalizados en Excel utilizando l
 
         Celdas con diseño visual adaptado al contenido.
 
-        Un gráfico destacado con imágenes descargadas de internet, integradas cuidadosamente en el contexto del análisis.
-
-    Aplicaciones en dashboards, reportes ejecutivos y visualizaciones temáticas (ventas, rendimiento, KPIs, etc.).
-
-    Casos organizados por categoría, con instrucciones en el propio archivo.
+        Gráficps destacados con iconos nativos de Excel e imágenes sin derechos de autor, degradados y texturas integradas cuidadosamente en el contexto del análisis.
 
 🎯 Objetivo
 
