@@ -17,7 +17,7 @@ Este proyecto muestra cómo crear gráficos personalizados en Excel utilizando l
 <h2>🎯 Objetivo</h2>
 
 Demostrar el potencial visual de Excel tanto con sus herramientas nativas como con la integración puntual de imágenes externas para lograr un impacto visual mayor, sin recurrir a programación o macros complejas.
-<br>📎 Archivos incluidos
+<br>📎 Archivos incluidos:
 
     Archivo .xlsx con todos los gráficos explicados.
 
