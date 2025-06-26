@@ -1,6 +1,6 @@
 <h1>Gráficos Personalizados en Excel con Iconos Nativos e Imégenes</h1>
 
-![Preview](GRAFICOS/graficos-personalizados.png.png)
+![Preview](EXCEL/blob/main/GRAFICOS/graficos-personalizados.png)
 
 Este proyecto muestra cómo crear gráficos personalizados en Excel utilizando los iconos nativos que ofrece la herramienta, junto con un ejemplo especial que incorpora imágenes externas de internet para enriquecer aún más la visualización de datos. El enfoque general es mantener la sencillez, aprovechando al máximo los recursos internos de Excel sin complementos adicionales.
 🛠️ ¿Qué incluye este trabajo?
