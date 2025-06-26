@@ -24,10 +24,6 @@ Demostrar el potencial visual de Excel tanto con sus herramientas nativas como c
 
     Archivo .xlsx con todos los gráficos explicados.
 
-    Hoja guía con indicaciones paso a paso y comentarios útiles.
-
-    Ejemplo con imágenes externas, con créditos y fuente de origen indicados.
-
 🧠 Público objetivo
 
     Analistas de datos
