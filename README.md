@@ -14,7 +14,7 @@ Este proyecto muestra cómo crear gráficos personalizados en Excel utilizando l
         Gráficps destacados con iconos nativos de Excel e imágenes sin derechos de autor, 
         degradados y texturas integradas cuidadosamente en el contexto del análisis.
 
-🎯 Objetivo
+<h2>🎯 Objetivo</h2>
 
 Demostrar el potencial visual de Excel tanto con sus herramientas nativas como con la integración puntual de imágenes externas para lograr un impacto visual mayor, sin recurrir a programación o macros complejas.
 📎 Archivos incluidos
