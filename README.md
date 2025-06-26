@@ -21,7 +21,7 @@ Demostrar el potencial visual de Excel tanto con sus herramientas nativas como c
 
     Archivo .xlsx con todos los gráficos explicados.
 
-🧠 Público objetivo
+<h2>🧠 Público objetivo</h2>
 
     Analistas de datos
 
